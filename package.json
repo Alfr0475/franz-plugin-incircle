@@ -1,0 +1,23 @@
+{
+  "name": "inCircle",
+  "version": "1.0.0",
+  "description": "inCircle",
+  "main": "index.js",
+  "author": "Seiki Koga <alfr0475@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "",
+    "serviceName": "inCircle",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": true,
+    "customURL": true,
+    "hostedOnly": true,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
